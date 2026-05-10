@@ -286,9 +286,7 @@ uart_project/
 
 ## Waveform
 
-<img width="1920" height="1080" alt="uart_result" src="https://github.com/user-attachments/assets/a64229f1-e195-4d5e-97d7-055a22bbdf4c" />
-<img width="1920" height="1080" alt="uart" src="https://github.com/user-attachments/assets/46c85532-c575-4f29-93b3-3143e764b28b" />
-
+<img width="1920" height="1019" alt="uart" src="https://github.com/user-attachments/assets/7b8212e0-eb00-451d-9b7b-8e86fe0e01f4" />
 
 
 
