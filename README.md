@@ -21,6 +21,7 @@ A fully functional **UART (Universal Asynchronous Receiver Transmitter)** contro
 - [Directory Structure](#directory-structure)
 - [Tools Used](#tools-used)
 - [Future Improvements](#future-improvements)
+- [Waveform](#Result)
 
 ---
 
@@ -282,6 +283,11 @@ uart_project/
 - [ ] Upgrade testbench to SystemVerilog with assertions
 
 ---
+
+## Waveform(Result)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd943317-4334-4523-9c73-5038c904167a" />
+
 
 ## Author
 
