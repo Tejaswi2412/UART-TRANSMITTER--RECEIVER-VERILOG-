@@ -21,7 +21,7 @@ A fully functional **UART (Universal Asynchronous Receiver Transmitter)** contro
 - [Directory Structure](#directory-structure)
 - [Tools Used](#tools-used)
 - [Future Improvements](#future-improvements)
-- [Waveform](#waveform-(result))
+- [Waveform](#waveform)
 
 ---
 
@@ -284,7 +284,7 @@ uart_project/
 
 ---
 
-## Waveform(Result)
+## Waveform
 
 <img width="1920" height="1080" alt="uart_result" src="https://github.com/user-attachments/assets/a64229f1-e195-4d5e-97d7-055a22bbdf4c" />
 <img width="1920" height="1080" alt="uart" src="https://github.com/user-attachments/assets/46c85532-c575-4f29-93b3-3143e764b28b" />
