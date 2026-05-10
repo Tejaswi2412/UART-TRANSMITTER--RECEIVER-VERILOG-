@@ -286,7 +286,8 @@ uart_project/
 
 ## Waveform(Result)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd943317-4334-4523-9c73-5038c904167a" />
+<img width="1920" height="1080" alt="uart_result" src="https://github.com/user-attachments/assets/a64229f1-e195-4d5e-97d7-055a22bbdf4c" />
+
 
 
 ## Author
