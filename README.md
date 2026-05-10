@@ -21,7 +21,7 @@ A fully functional **UART (Universal Asynchronous Receiver Transmitter)** contro
 - [Directory Structure](#directory-structure)
 - [Tools Used](#tools-used)
 - [Future Improvements](#future-improvements)
-- [Waveform](#Waveform-Result)
+- [Waveform](#waveform-(result))
 
 ---
 
