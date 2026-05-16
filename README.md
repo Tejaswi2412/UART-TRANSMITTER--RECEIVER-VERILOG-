@@ -47,17 +47,17 @@ IDLE → START(0) → D0 → D1 → D2 → D3 → D4 → D5 → D6 → D7 → ST
 
 ```
                     ┌─────────────────────────────────────────┐
-                    │              uart_top.v                  │
-                    │                                          │
+                    │              uart_top.v                 │
+                    │                                         │
          clk ──────→│──→ baud_rate ──baud_tick──→ uart_tx ────│──→ tx_line ──┐
        start ──────→│                         ↑               │              │
      tx_data ──────→│                      clk, start         │              │
-                    │                      tx_data             │              │
-                    │                                          │              │
-     rx_data ←──────│←── uart_rx ←──────────────────────────←│←─────────────┘
+                    │                      tx_data            │              │
+                    │                                         │              │
+     rx_data ←──────│←── uart_rx ←──────────────────────────← │←─────────────┘
         done ←──────│         ↑                               │
                     │      clk, rx_line                       │
-                    │   (independent counter)                  │
+                    │   (independent counter)                 │
                     └─────────────────────────────────────────┘
 ```
 
